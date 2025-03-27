@@ -22,8 +22,7 @@ A **Blood Bank Management System** built using the **MERN stack (MongoDB, Expres
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB (Mongoose)  
 - **Authentication**: JWT & bcrypt  
-- **State Management**: Redux (if needed)  
-- **Deployment**: Vercel (Frontend), Render/Heroku (Backend), MongoDB Atlas  
+
 
 
 
